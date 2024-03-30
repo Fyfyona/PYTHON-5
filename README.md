@@ -7,9 +7,9 @@ Repositori ini memuat kelas Python yang bernama MarketingDataETL. Kelas ini dira
 
 ## Fungsi
 
-- Ekstraksi data dari berkas CSV.
-- Transformasi data (belum diimplementasikan).
-- Penyimpanan data yang telah diproses ke dalam berkas CSV baru.
+- Ekstraksi data dari berkas CSV : Digunakan untuk mengekstrak data dari sebuah berkas CSV.
+- Transformasi data (belum diimplementasikan) : Tidak diimplementasikan di sini dan dapat diperluas sesuai kebutuhan untuk melakukan transformasi data.
+- Store(output_file) : Penyimpanan data yang telah diproses ke dalam berkas CSV baru.
 
 ## Targeted Marketing ETL
 
